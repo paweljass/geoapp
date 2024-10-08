@@ -28,7 +28,8 @@ curl -X POST http://localhost:8000/api/geolocation/ -H "Content-Type: applicatio
 4. **Check added data**:
 http://localhost:8000/api/geolocation/7.7.7.7/
 
-<img width="330" alt="Zrzut ekranu 2024-10-8 o 09 12 52" src="https://github.com/user-attachments/assets/f0e09b7d-2ae7-4932-8921-85141771b577">
+<img width="325" alt="Zrzut ekranu 2024-10-8 o 10 21 53" src="https://github.com/user-attachments/assets/c69bfc0d-7dec-4a9c-bc62-747441fdc60d">
+
 
 5. **Run tests**:
 - docker exec terminal: python manage.py test
