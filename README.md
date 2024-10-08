@@ -1,6 +1,6 @@
 # Geolocation API
 
-SQLite for simplicity (use Postgres on production)
+SQLite for simplicity (use Postgres on production). You can delete one from repo and it will make new one.
 
 
 ## Description
